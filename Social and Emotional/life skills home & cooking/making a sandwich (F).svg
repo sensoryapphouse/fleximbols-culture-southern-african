@@ -1,0 +1,44 @@
+<svg data-cover="arms:covered" xmlns="http://www.w3.org/2000/svg" viewBox="76.96 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
+<line x1="209" y1="303" x2="200" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="239" y1="303" x2="248" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="200" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="248" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="192,197 256,197 254,305 194,305" fill="#e0a030" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="194" y1="199" x2="178" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="254" y1="199" x2="302" y2="221" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="224" y1="197" x2="224" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 177.0 184.0 L 177.0 128.0 Q 177.0 76.0 224.0 76.0 Q 271.0 76.0 271.0 128.0 L 271.0 184.0 L 258.0 184.0 L 258.0 130.0 Q 258.0 96.0 224.0 96.0 Q 190.0 96.0 190.0 130.0 L 190.0 184.0 Z" fill="#5a3a1f" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M 192.0 197 L 256.0 197 L 254.0 299 L 194.0 299 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="194" y1="215" x2="254" y2="215" stroke="#e23b3b" stroke-width="5" stroke-linecap="round"/>
+<line x1="194" y1="239" x2="254" y2="239" stroke="#e23b3b" stroke-width="5" stroke-linecap="round"/>
+<line x1="194" y1="263" x2="254" y2="263" stroke="#e23b3b" stroke-width="5" stroke-linecap="round"/>
+<line x1="194" y1="287" x2="254" y2="287" stroke="#e23b3b" stroke-width="5" stroke-linecap="round"/>
+<line x1="194" y1="227" x2="254" y2="227" stroke="#ffd24a" stroke-width="5" stroke-linecap="round"/>
+<line x1="194" y1="251" x2="254" y2="251" stroke="#ffd24a" stroke-width="5" stroke-linecap="round"/>
+<line x1="194" y1="275" x2="254" y2="275" stroke="#ffd24a" stroke-width="5" stroke-linecap="round"/>
+<path d="M 194.0 299 L 254.0 299 L 268.0 443 L 180.0 443 Z" fill="#5a3a22" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="194" y1="335" x2="254" y2="335" stroke="#3a2614" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="224" cy="203" rx="30" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<ellipse cx="224" cy="203" rx="22" ry="8" fill="#e23b3b" stroke="#1a1a1a" stroke-width="2"/>
+<ellipse cx="224" cy="203" rx="12" ry="5" fill="#3b82d6" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="194" y1="199" x2="178" y2="305" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+<line x1="194" y1="199" x2="178" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="254" y1="199" x2="302" y2="221" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+<line x1="254" y1="199" x2="302" y2="221" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 177.0 184.0 L 177.0 128.0 Q 177.0 76.0 224.0 76.0 Q 271.0 76.0 271.0 128.0 L 271.0 184.0 L 258.0 184.0 L 258.0 130.0 Q 258.0 96.0 224.0 96.0 Q 190.0 96.0 190.0 130.0 L 190.0 184.0 Z" fill="#241c14" stroke="#1a1a1a" stroke-width="3"/>
+<circle id="h1" data-fig="fa" class="skin" cx="224" cy="130" r="40" fill="#5e3618" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 186.0 96.0 Q 224.0 82.0 262.0 96.0 Q 224.0 92.0 186.0 96.0 Z" fill="#241c14" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M 178.0 96 L 202.0 60 L 246.0 60 L 270.0 96 Z" fill="#9e2b25" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="224" cy="96" rx="46" ry="10" fill="#7a1c14" stroke="#1a1a1a" stroke-width="3"/>
+<ellipse cx="224" cy="60" rx="22" ry="6" fill="#9e2b25" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="296" y="312" width="122" height="16" rx="3" fill="#caa46a" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="296" y="328" width="122" height="30" rx="0" fill="#9a6a3a" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="346" cy="316" rx="50" ry="9" fill="#7a4a24" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="298" y="304" width="96" height="10" rx="4" fill="#b07a3a" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="312" y="296" width="68" height="12" rx="4" fill="#e7c478" stroke="#b07a3a" stroke-width="3"/>
+<rect x="314" y="288" width="64" height="8" rx="0" fill="#3fae5a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="314" y="282" width="64" height="6" rx="0" fill="#e0843a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="312" y="272" width="68" height="12" rx="4" fill="#e7c478" stroke="#b07a3a" stroke-width="3"/>
+<line x1="312" y1="272" x2="380" y2="308" stroke="#b07a3a" stroke-width="2" stroke-linecap="round"/>
+<line x1="302" y1="221" x2="346" y2="278" stroke="#f1c9a5" stroke-width="5" stroke-linecap="round"/>
+</svg>
